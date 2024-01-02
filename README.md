@@ -29,6 +29,7 @@ for line in f:
 words=line.split()
 num_words+=len(words)
 print('Number of words: ',num_words)
+```
 
 ### OUTPUT:
 ![exp5b](https://github.com/Rohiit2005/command-line-arguments-to-count-word/assets/138849178/bd389d64-b999-453a-8847-c3661898ee8e)
